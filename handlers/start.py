@@ -42,12 +42,12 @@ Highlights:
         buttons = InlineKeyboardMarkup([
             [InlineKeyboardButton("⚒️ Add to Group ⚒️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [
-                InlineKeyboardButton("⌂ Support ⌂", url=https://t.me/+x6eyUVo93_k5ZDRl),
-                InlineKeyboardButton("⌂ Update ⌂", url=https://t.me/pittu_support),
+                InlineKeyboardButton("⌂ Support ⌂", url="https://t.me/+x6eyUVo93_k5ZDRl"),
+                InlineKeyboardButton("⌂ Update ⌂", url="@pittu_support"),
             ],
             [
                 InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id=8782166107"),
-                InlineKeyboardButton("𝐀ʟғᴀᴀᴢ 𝐄 𝐃ɪʟ 𝐊ᴇ", url=https://t.me/Alfaaz_e_dil_ke),
+                InlineKeyboardButton("𝐀ʟғᴀᴀᴢ 𝐄 𝐃ɪʟ 𝐊ᴇ", url="@Alfaaz_e_dil_ke"),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
