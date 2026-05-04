@@ -27,7 +27,7 @@ def register_handlers(app: Client):
 
    ✨ Hello {user}! ✨
 
-👋 I am Nomad 🤖 
+👋 I am Alisa Group Help 🤖 
 
 Highlights:
 ─────────────────────────────
@@ -42,12 +42,12 @@ Highlights:
         buttons = InlineKeyboardMarkup([
             [InlineKeyboardButton("⚒️ Add to Group ⚒️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [
-                InlineKeyboardButton("⌂ Support ⌂", url=SUPPORT_GROUP),
-                InlineKeyboardButton("⌂ Update ⌂", url=UPDATE_CHANNEL),
+                InlineKeyboardButton("⌂ Support ⌂", url=https://t.me/+7geXh-QrVmM3YzQ1),
+                InlineKeyboardButton("⌂ Update ⌂", url=https://t.me/pittu_support),
             ],
             [
-                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id={OWNER_ID}"),
-                InlineKeyboardButton("Repo", url="https://github.com/LearningBotsOfficial/Nomade"),
+                InlineKeyboardButton("※ ŎŴɳēŔ ※", url=f"tg://user?id=8782166107"),
+                InlineKeyboardButton("𝐀ʟғᴀᴀᴢ 𝐄 𝐃ɪʟ 𝐊ᴇ", url=https://t.me/Alfaaz_e_dil_ke),
                 
             ],
             [InlineKeyboardButton("📚 Help Commands 📚", callback_data="help")]
