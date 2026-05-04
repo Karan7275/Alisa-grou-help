@@ -42,7 +42,7 @@ Highlights:
         buttons = InlineKeyboardMarkup([
             [InlineKeyboardButton("⚒️ Add to Group ⚒️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
             [
-                InlineKeyboardButton("⌂ Support ⌂", url=https://t.me/+7geXh-QrVmM3YzQ1),
+                InlineKeyboardButton("⌂ Support ⌂", url=https://t.me/+x6eyUVo93_k5ZDRl),
                 InlineKeyboardButton("⌂ Update ⌂", url=https://t.me/pittu_support),
             ],
             [
